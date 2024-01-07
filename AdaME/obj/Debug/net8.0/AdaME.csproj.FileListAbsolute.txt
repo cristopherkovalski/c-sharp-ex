@@ -1,0 +1,14 @@
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\obj\Debug\net8.0\AdaME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\obj\Debug\net8.0\AdaME.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\obj\Debug\net8.0\AdaME.AssemblyInfo.cs
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\obj\Debug\net8.0\AdaME.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\bin\Debug\net8.0\AdaME.exe
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\bin\Debug\net8.0\AdaME.deps.json
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\bin\Debug\net8.0\AdaME.runtimeconfig.json
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\bin\Debug\net8.0\AdaME.dll
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\bin\Debug\net8.0\AdaME.pdb
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\obj\Debug\net8.0\AdaME.dll
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\obj\Debug\net8.0\refint\AdaME.dll
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\obj\Debug\net8.0\AdaME.pdb
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\obj\Debug\net8.0\AdaME.genruntimeconfig.cache
+C:\Users\T-GAMER\Source\Repos\AdaMEEx\AdaME\obj\Debug\net8.0\ref\AdaME.dll
